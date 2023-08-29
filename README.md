@@ -1,4 +1,4 @@
-![Tampilan Aplikasi](https://github.com/Genta-arya/Management-Ijazah/assets/74033154/2b037a3c-f4e5-4a78-9a81-9eda0eb78f1b){:style="width: 50%;"}
+![Tampilan Aplikasi](https://github.com/Genta-arya/Management-Ijazah/assets/74033154/2b037a3c-f4e5-4a78-9a81-9eda0eb78f1b)
 
 
 
