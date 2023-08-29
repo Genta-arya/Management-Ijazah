@@ -9,7 +9,7 @@ Selamat datang di repositori backend untuk Management Ijazah. Berikut adalah lan
 
 1. Pastikan Anda memiliki Node.js diinstal di komputer Anda. Anda dapat mengunduhnya dari [sini](https://nodejs.org/).
 
-2. Pastikan Anda memiliki PostgreSQL diinstal di komputer Anda. Anda dapat mengunduhnya dari [sini](https://www.postgresql.org/download/).
+2. Pastikan Anda memiliki Mysql diinstal di komputer Anda.
 
 ## Instalasi
 
@@ -22,4 +22,4 @@ Selamat datang di repositori backend untuk Management Ijazah. Berikut adalah lan
    ```bash
    npm install
 
-Repository`[API](https://github.com/Genta-arya/Management-Ijazah-Backend)`
+Repository [API](https://github.com/Genta-arya/Management-Ijazah-Backend)
