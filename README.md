@@ -22,4 +22,4 @@ Selamat datang di repositori backend untuk Management Ijazah. Berikut adalah lan
    ```bash
    npm install
 
-Pastikan untuk mengganti `[<link-dokumentasi-api>](https://github.com/Genta-arya/Management-Ijazah-Backend)` dengan tautan yang benar jika ada dokumentasi API yang tersedia. Anda juga dapat menyesuaikan informasi lainnya sesuai dengan kebutuhan dan informasi yang ada di repositori tersebut.
+Repository`[<API](https://github.com/Genta-arya/Management-Ijazah-Backend)`
