@@ -1,5 +1,5 @@
 
-# Management-Ijazah
+
 
 <p align="center">
   <img src="https://portfolio-my-gamma.vercel.app/static/media/smk1.0643a142563d017ebe51.jpeg" width="30%">
