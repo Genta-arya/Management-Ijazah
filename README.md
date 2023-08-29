@@ -23,6 +23,3 @@ Selamat datang di repositori backend untuk Management Ijazah. Berikut adalah lan
    npm install
 
 Repository [API](https://github.com/Genta-arya/Management-Ijazah-Backend)
-
-![Logo Proyek](![image](https://github.com/Genta-arya/Management-Ijazah/assets/74033154/dfff2552-fbcc-46d3-a62e-cdbc5b25d152)
-)
